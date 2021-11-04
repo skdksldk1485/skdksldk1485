@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/-React-61dbfb?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp<br/>
 </p>
  <br/>
- <br/>
 <p align="center"> ✨ <em>BASIC</em> ✨<br/>
  <br/>
   <img src="http://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
