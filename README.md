@@ -48,7 +48,11 @@
  </p>
  <br/>
  <br/> 
-
+<h2 align="center"><em>Contact</em></h2>
+ <br/>
+<p align="center">
+ <a href="https://velog.io/@skdksldk14"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a><a/>
+</p>
 <!--
 **skdksldk1485/skdksldk1485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
