@@ -1,4 +1,4 @@
-<h3 align="center"><em>👋 Hello, I'm a Self-Taught Web Developer</em></h3>
+<h3 align="center"><em>👋 Hello, I'm a Self-Taught Web Developer 👋</em></h3>
 <h2 align="center">📌<em>Portfolio</em>📌</h2>
 <p align="center"><em>Major Repo for Portfolio</em><br/>
  <br/>
@@ -48,7 +48,7 @@
  </p>
  <br/>
  <br/> 
-<h2 align="center"><em>Contact</em></h2>
+<h2 align="center">📫 <em>Contact</em> 📫</h2>
  <br/>
 <p align="center">
  <a href="https://velog.io/@skdksldk14"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a><a/>
