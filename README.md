@@ -1,6 +1,6 @@
 <h3 align="center"><em>👋 Hello, I'm a Self-Taught Web Developer 👋</em></h3>
 <h2 align="center">📌<em>Portfolio</em>📌</h2>
-<p align="center"><em>Major Repo for Portfolio</em><br/>
+<p align="center"><em><strong>Major Repo for Portfolio</strong></em><br/>
  <br/>
  <a href="https://portfolio-beryl-phi.vercel.app/"><em>ISU's Portfolio</em></a><br/>
 </p>
